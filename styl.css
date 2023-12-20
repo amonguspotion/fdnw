@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(72, 155, 148);
+}
+
+#score{
+    font-size: 25px;
+    float: left;
+}
+
+#timer{
+    font-size: 25px;
+    float: right;
+}
+
+#target_sketch{
+    color: red;
+}
